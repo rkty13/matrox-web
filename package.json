@@ -1,0 +1,14 @@
+{
+    "name": "matrox-web",
+    "version": "0.1.0",
+    "description": "Web application to access matrox functionality.",
+    "scripts": {
+
+    },
+    "pperDependencies": {
+        "react": "^15.4.2",
+        "react-dom": "^15.4.2"
+    },
+    "author": "Robert Kim",
+    "license": "MIT"
+}
